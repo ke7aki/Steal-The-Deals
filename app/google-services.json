@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "710818118325",
+    "project_id": "steal-the-deals",
+    "storage_bucket": "steal-the-deals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710818118325:android:b28d0c5cdb6ae5cc241cfc",
+        "android_client_info": {
+          "package_name": "pentagon.stealthedeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710818118325-i8i8fd8b5k011pscostj6g4j98kgj4ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pentagon.stealthedeal",
+            "certificate_hash": "bfae7e1c3b988b1f559adb0b883776671c5793f6"
+          }
+        },
+        {
+          "client_id": "710818118325-o6j9q5jfg5c09l8cdcl6f0634fgkk3p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDiamanlQoDr-okgQl5PHeBaAwmYbzaPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710818118325-o6j9q5jfg5c09l8cdcl6f0634fgkk3p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
