@@ -1,4 +1,4 @@
-# StealTheDeal
+# StealTheDeals
 An android app.
 This app provides details of deals which are available in firebase-database. Other than that fragments are used. Login, logout, register, change password, map activity.
 
